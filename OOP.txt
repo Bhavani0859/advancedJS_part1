@@ -1,0 +1,13 @@
+Define encapsulation, abstraction, and inheritance in your own words.
+encapsulation : Encapsulation means wrapping the data and methods working on that data together using classes
+
+Abstraction : Abstraction is the process of hiding the internal details and only displaying necessary details to the outside world
+                i.e for example when using a function there is no need to 
+
+Inheritance : inheritance is concept of deriving or inheriting the properties of one class to another class
+                the class from which the properties are deriving is known as parent class ,
+                And the class to which the properties are deriving is known as derived class
+
+
+
+
